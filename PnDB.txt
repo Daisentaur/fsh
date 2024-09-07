@@ -1,0 +1,37 @@
+port_name,latitude,longitude,country
+port of Mumbai,18.9483,72.8442,India
+port of Chennai,13.0861,80.2922,India
+port of Kochi,9.9546,76.2678,India
+port of Mangalore,12.8500,74.8354,India
+port of Visakhapatnam,17.6856,83.2160,India
+port of Paradip,20.2376,84.2700,India
+port of Kolkata,22.5461,88.3149,India
+port of Tuticorin,8.7563,78.1791,India
+port of Deendayal,23.0172,70.2125,India
+port of Colombo,6.9404,79.8464,Sri Lanka
+port of Hambantota,6.1200,81.1046,Sri Lanka
+port of Tricomalee,8.5333,81.2500,Sri Lanka
+port of Chittagong,22.3091,91.8018,Bangladesh
+port of Mongla,22.4673,89.5825,Bangladesh
+port of Yangon,16.7505,96.1956,Myanmar
+port of Dawei,14.2570,98.0428,Myanmar
+port of Salalah,16.9415,53.9954,Oman
+port of Sohar,24.4849,56.6121,Oman
+port of Jebel Ali,25.0236,55.0403,UAE
+port of Fujairah,25.1728,56.3635,UAE
+port of Male,4.1719,73.5090,Maldives
+port of Victoria,-4.6167,55.4833,Seychellas
+port of Mogadishu,2.0239,45.3332,Somalia
+port of Berbera,10.4389,44.9996,Somalia
+port of Mombasa,-4.0581,39.6814,Kenya
+port of Dar es Salaam,-6.8304,39.2903,Tanzania
+port of Mtwara,-10.2684,40.1986,Tanzania
+port of Maputo,-25.9603,32.5454,Mozambique
+port of Beira,-19.8115,34.8305,Mozambique
+port of Durban,-29.8587,31.0218,South Africa
+port of Richards Bay,-28.7913,32.0364,South Africa
+port of Fremantle,-32.0500,115.7333,Australia
+port of Darwin,-12.4882,130.8983,Australia
+port of Jakarta,-6.0919,106.8817,Indonesia
+port of Surabaya,-7.2504,112.7688,Indonesia
+port of Louis,-20.1609,57.5012,Mauritius
